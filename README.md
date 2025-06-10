@@ -110,3 +110,8 @@ go_loganizer/
 # Avec création automatique de répertoires
 ./loganizer analyze -c config.json -o rapports/2024/rapport.json
 ```
+# Équipe
+
+- GAILLARD Maylis
+- DAIJARDIN Enolha
+- BRUAIRE Tom
